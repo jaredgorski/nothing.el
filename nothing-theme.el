@@ -3,10 +3,9 @@
 ;; Copyright (C) 2020, Jared Gorski, <jaredgorski6@gmail.com>
 ;;
 ;; Version: 1.0.0
-;; Keywords: colorscheme theme monochrome minimal
 ;; Author: Jared Gorski, <jaredgorski6@gmail.com>
-;; URL: http://github.com/jaredgorski/nothing.el
-;; Package-Requires: ((emacs "24"))
+;; URL: https://github.com/jaredgorski/nothing.el
+;; Package-Requires: ((emacs "24.1"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -19,14 +18,14 @@
 ;; General Public License for more details.
 ;;
 ;; You should have received a copy of the GNU General Public License
-;; along with this program. If not, see <http://www.gnu.org/licenses/>.
+;; along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ;; This file is not part of Emacs.
 
 ;;; Commentary:
 
-;; This theme provides a monochrome and rather default-style 
-;; experience. This helps some people focus on content over form and
+;; This theme provides a monochrome and rather default-style
+;; experience.  This helps some people focus on content over form and
 ;; potentially minimizes effects of context-switching.
 
 ;;; Code:
