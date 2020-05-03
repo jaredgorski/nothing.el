@@ -1,4 +1,4 @@
-;;; nothing-theme.el --- Monochrome emacs
+;;; nothing-theme.el --- Monochrome theme
 
 ;; Copyright (C) 2020, Jared Gorski, <jaredgorski6@gmail.com>
 ;;
@@ -25,8 +25,8 @@
 
 ;;; Commentary:
 
-;; This theme provides a monochrome and rather default-style Emacs
-;; experience.  This helps some people focus on content over form and
+;; This theme provides a monochrome and rather default-style 
+;; experience. This helps some people focus on content over form and
 ;; potentially minimizes effects of context-switching.
 
 ;;; Code:
@@ -250,5 +250,6 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'nothing)
+(provide 'nothing-theme)
 
 ;;; nothing-theme.el ends here
