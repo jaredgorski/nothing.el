@@ -1,4 +1,4 @@
-;;; nothing-theme.el --- Monochrome theme
+;;; nothing-theme.el --- Monochrome theme  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020, Jared Gorski, <jaredgorski6@gmail.com>
 ;;
