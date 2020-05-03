@@ -25,8 +25,8 @@
 
 ;;; Commentary:
 
-;; This theme provides a monochrome and rather default-style emacs
-;; experience. This helps some people focus on content over form and
+;; This theme provides a monochrome and rather default-style Emacs
+;; experience.  This helps some people focus on content over form and
 ;; potentially minimizes effects of context-switching.
 
 ;;; Code:
@@ -139,7 +139,7 @@
         `(js3-function-param-face ((,class (:foreground ,key3))))
         `(js3-jsdoc-tag-face ((,class (:foreground ,keyword))))
         `(js3-instance-member-face ((,class (:foreground ,const))))
-	`(warning ((,class (:foreground ,warning)))) 
+	`(warning ((,class (:foreground ,warning))))
 	`(ac-completion-face ((,class (:underline t :foreground ,keyword))))
 	`(info-quoted-name ((,class (:foreground ,builtin))))
 	`(info-string ((,class (:foreground ,str))))
@@ -250,9 +250,5 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'nothing)
-
-;; Local Variables:
-;; no-byte-compile: t
-;; End:
 
 ;;; nothing-theme.el ends here
