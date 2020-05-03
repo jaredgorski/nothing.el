@@ -1,0 +1,3 @@
+# nothing.el
+
+Monochrome emacs
