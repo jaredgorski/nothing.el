@@ -1,12 +1,7 @@
-;;; nothing-theme.el --- Emacs theme with a light background.
-
-;; Copyright (C) 2014 , Jared Gorski
+;;; nothing-theme.el --- Monochrome emacs
 
 ;; Author: Jared Gorski
-;; 
-;; Version: 0.1
 ;; Package-Requires: ((emacs "24"))
-;; Created with emacs-theme-generator, https://github.com/mswift42/theme-creator.
 
 
 ;; This program is free software: you can redistribute it and/or modify
@@ -24,7 +19,6 @@
 
 ;; This file is not part of Emacs.
 
-;;; Commentary:
 
 ;;; Code:
 
