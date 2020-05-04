@@ -8,7 +8,9 @@
   </h1>
 </div>
 
-Monochrome emacs
+<div align="center">
+  Monochrome emacs
+</div>
 
 ![nothing](https://github.com/jaredgorski/nothing/raw/master/screenshot.png)
 
